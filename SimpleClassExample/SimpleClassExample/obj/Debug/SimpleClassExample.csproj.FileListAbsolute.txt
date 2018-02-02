@@ -1,0 +1,14 @@
+Z:\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+Z:\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+Z:\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+Z:\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+Z:\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+Z:\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+Z:\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+Z:\repoz-master\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
