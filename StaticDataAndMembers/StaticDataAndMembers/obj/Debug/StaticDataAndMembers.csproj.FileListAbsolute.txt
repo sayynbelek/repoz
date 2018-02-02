@@ -1,0 +1,7 @@
+Z:\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+Z:\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+Z:\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+Z:\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+Z:\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+Z:\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+Z:\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
